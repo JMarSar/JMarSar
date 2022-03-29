@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jorge, @JMarSar, Marrero Sarmiento, and I'm studied Full-Stack developing at Codenotch. 
 - 👀 I’m interested in Full-Stack developing, artificial intelligence and data science.
 - 🌱 I’m currently learning React.
-- 📫 You can reach me on gmail "marsarjorge@gmail.com" or twitter "@whosjmarsar".
 
 
 <h3 align="left">Connect with me:</h3>
